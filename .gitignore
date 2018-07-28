@@ -3,3 +3,6 @@ env/
 docs/_build
 
 flaskr.db
+
+Pipfile.lock
+.venv/
